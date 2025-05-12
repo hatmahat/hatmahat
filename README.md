@@ -1,6 +1,7 @@
-<!--🖼️Terminal-->
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF2bXBwYjc5NTVoNW1iMWtvY2JsaWJwY2IwcTY5amN1aXJweWpzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" height="240" width="370">
+<div align="center">
+
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/user-attachments/assets/42667e3c-6dd4-4bae-9b64-e3a1991cf71f)
+
 <!--
 **hatmahat/hatmahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
