@@ -1,10 +1,6 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<!--🖼️Terminal-->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<!--🖼️RICK-->
-<p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF2bXBwYjc5NTVoNW1iMWtvY2JsaWJwY2IwcTY5amN1aXJweWpzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" height="240" width="370">
 <!--
 **hatmahat/hatmahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
