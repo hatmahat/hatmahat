@@ -8,4 +8,4 @@ I specialize in building scalable backend systems, designing cloud infrastructur
 - Infrastructure (AWS, GCP, Docker, Kubernetes)  
 - SaaS Products & Automation  
 - System Design & Distributed Systems
-- US Stock Investing  
+- US Tech Stock Investing  
