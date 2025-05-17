@@ -1,18 +1,11 @@
-<div align="center">
+# 👋 Hi I'm Hatma
+<img src="https://komarev.com/ghpvc/?username=hatmacode&color=blue&style=for-the-badge"/>
 
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/user-attachments/assets/42667e3c-6dd4-4bae-9b64-e3a1991cf71f)
+I specialize in building scalable backend systems, designing cloud infrastructure, and developing high-impact enterprise applications. My primary focus is on backend development using Go, PostgreSQL, and cloud services like GCP and AWS. I also enjoy learning about distributed systems, building SaaS products, and optimizing systems for performance and clarity.
 
-<!--
-**hatmahat/hatmahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Interests  
+- Backend Engineering (Golang, PostgreSQL, Firebase, REST API)  
+- Infrastructure (AWS, GCP, Docker, Kubernetes)  
+- SaaS Products & Automation  
+- Distributed Systems & System Design  
+- US Stock Investing  
