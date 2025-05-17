@@ -7,5 +7,5 @@ I specialize in building scalable backend systems, designing cloud infrastructur
 - Backend Engineering (Golang, PostgreSQL, Firebase, REST API)  
 - Infrastructure (AWS, GCP, Docker, Kubernetes)  
 - SaaS Products & Automation  
-- Distributed Systems & System Design  
+- System Design & Distributed Systems
 - US Stock Investing  
