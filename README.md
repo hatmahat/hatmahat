@@ -7,3 +7,8 @@ I specialize in building backend systems, designing cloud infrastructure, and de
 
 This repo is a collection of things I’ve built, explored, or found useful.  
 Hopefully you’ll find something useful here.
+
+### Certifications
+- [x] [TensorFlow Developer Certificate]([https://www.tensorflow.org/certificate](https://www.credential.net/3f92ebfb-b874-4771-9e69-19cf5b53b61b#acc.lLHjXQFM))
+- [x] [Google Cloud Certified – Associate Cloud Engineer]([https://cloud.google.com/certification/cloud-engineer](https://www.credly.com/badges/2682ea93-32f7-4fa3-bf48-ad6564ee93d2/public_url))
+- [ ] AWS Certified Solutions Architect – Associate
