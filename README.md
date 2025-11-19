@@ -1,12 +1,11 @@
 # 👋 Hi I'm Hatma
 <img src="https://komarev.com/ghpvc/?username=hatmacode&color=blue&style=for-the-badge"/>
 
-I specialize in building backend systems, designing cloud infrastructure, and developing enterprise applications. My primary focus is on backend development using Go, PostgreSQL, and cloud services like GCP and AWS. I also enjoy about distributed systems, building SaaS products, and optimizing systems for performance.
+I specialize in building scalable backend systems and cloud infrastructure for enterprise applications. My focus is on Go, PostgreSQL/MySQL, and cloud platforms (GCP/AWS). I'm passionate about distributed systems, Kubernetes orchestration, and building performant SaaS products.
 
 ---
 
-This repo is a collection of things I’ve built, explored, or found useful.  
-Hopefully you’ll find something useful here.
+This repo is a collection of things I've built, explored, or found useful.
 
 ---
 👀 Interests  
